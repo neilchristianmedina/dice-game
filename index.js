@@ -46,7 +46,7 @@ function myFunction(){
     }
 
     if (randomNumber1===randomNumber2){
-        document.querySelector("h1").innerHTML="Draw";
+        document.querySelector("h1").innerHTML="Love Wins ❤️";
 
     } else if (randomNumber1>randomNumber2){
         document.querySelector("h1").innerHTML="🚩 Buboy Wins";
